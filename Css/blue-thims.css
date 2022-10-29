@@ -1,0 +1,43 @@
+/*Active Link*/
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check {
+
+  	background-color: #344dff;
+}
+
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.testim span,
+.stats .statistics:hover,
+.footer h3,
+.footer .social-list li:hover,
+.footer .copyright span{
+	
+	color: #344dff;
+}
+
+.option-box .color-opstion,
+.testim .carousel-indicators li.active,
+.table .price-box:hover p {
+
+	border: 3px solid #344dff;
+}
+
+
+.dropdown-menu {
+
+	border-top: 3px solid #344dff;
+}
+
+.footer .img-thumbnail {
+
+	border: 1px solid #344dff;
+
+}
